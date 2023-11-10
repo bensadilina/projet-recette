@@ -1,0 +1,22 @@
+body{
+    background: rgb(15, 42, 65);
+
+}
+
+@keyframes anime {
+    form {
+        transform: translateY(-50px);
+    }
+    
+}
+form{
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 6px;
+}
+ textarea{
+    resize: none;
+   
+ }
